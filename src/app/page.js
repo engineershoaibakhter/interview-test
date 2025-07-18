@@ -23,7 +23,7 @@ export default function Home() {
                   FAQs
                 </li>
                 <li>
-                  <button className="border-2 border-white px-6 py-2 my-2 mx-4 hover:cursor-pointer hover:bg-red-500 hover:border-red-500 transition-all duration-300 rounded">
+                  <button className="border-2 text-red-500 border-r-red-500 border-b-red-500 border-t-white border-l-white px-6 py-2 my-2 mx-4 hover:cursor-pointer hover:bg-red-500 hover:border-red-500 transition-all duration-300 rounded">
                     Login
                   </button>
                 </li>
